@@ -21,7 +21,7 @@ O **SimpleBlogPage** é um projeto de página simples para blogs, criado com o o
 
 ## Como Acessar
 
-Para visualizar o **SimpleBlogPage**,.
+Para visualizar o **SimpleBlogPage**.
 
 ## Contribuição
 
